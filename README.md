@@ -1,3 +1,3 @@
 # select-leetcode
 
-LeetCode 算法题精选
+LeetCode 精选
