@@ -1,8 +1,8 @@
 package org.sorel.leetcode.problem.concurrency.p1114;
 
 public class Foo {
-    private volatile int flag = 1;
     private final Object object = new Object();
+    private volatile int flag = 1;
 
     public Foo() {
 
